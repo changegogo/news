@@ -1,0 +1,62 @@
+{
+    "message": "OK",
+    "status": 0,
+    "data": [
+        {
+            "subgrp": [
+                {
+                    "subgroup": "社会",
+                    "subid": 2
+                },
+                {
+                    "subgroup": "军事",
+                    "subid": 1
+                }
+            ],
+            "gid": 1,
+            "group": "新闻"
+        },
+        {
+            "subgrp": [
+                {
+                    "subgroup": "股票",
+                    "subid": 3
+                },
+                {
+                    "subgroup": "基金",
+                    "subid": 4
+                }
+            ],
+            "gid": 2,
+            "group": "财经"
+        },
+        {
+            "subgrp": [
+                {
+                    "subgroup": "探索",
+                    "subid": 6
+                },
+                {
+                    "subgroup": "手机",
+                    "subid": 5
+                }
+            ],
+            "gid": 3,
+            "group": "科技"
+        },
+        {
+            "subgrp": [
+                {
+                    "subgroup": "NBA",
+                    "subid": 8
+                },
+                {
+                    "subgroup": "英超",
+                    "subid": 7
+                }
+            ],
+            "gid": 4,
+            "group": "体育"
+        }
+    ]
+}
